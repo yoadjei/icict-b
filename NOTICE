@@ -1,0 +1,15 @@
+Third party components and data
+
+src/cropshift/prithvi_mae.py
+    Copied from the Prithvi-EO-1.0-100M repository (IBM and NASA), Apache License 2.0.
+    https://huggingface.co/ibm-nasa-geospatial/Prithvi-EO-1.0-100M
+models/Prithvi_EO_V1_100M.pt (downloaded, not redistributed)
+    Prithvi-EO-1.0-100M weights, Apache License 2.0.
+google/vit-base-patch16-224 (downloaded by transformers, not redistributed)
+    ViT-Base/16 pretrained on ImageNet-21k and fine tuned on ImageNet-1k, Apache License 2.0.
+GROW-Africa database (downloaded, not redistributed)
+    Field level yield records; cite the GROW-Africa data paper and respect its licence.
+Sentinel-2 Level-1C, Cloud Score+ and CHIRPS daily rainfall
+    Accessed through Google Earth Engine; see the README for collection identifiers.
+    The features, embeddings and figures derived from Sentinel-2 contain modified Copernicus
+    Sentinel data (2016 to 2021).
