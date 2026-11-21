@@ -1,6 +1,6 @@
-# Worse Than the Local Mean: transferring satellite maize yield models across African countries
+# Worse than the Local Mean: transferring satellite maize yield models across African countries
 
-Code, results and manuscript source for the ICICT 2027 paper on whether a field level maize
+Code and results for the ICICT 2027 paper on whether a field level maize
 yield model trained in some Sub-Saharan African countries can be deployed in another, how many
 local labels repair it, and when a transferred model should not be deployed.
 
@@ -92,7 +92,6 @@ src/cropshift/   earth_engine, features, embeddings, datasets, models, evaluatio
 scripts/         numbered pipeline steps
 results/         every number reported in the paper (CSV) and generated LaTeX tables
 figures/         figures as vector PDF and 300 dpi PNG
-paper/           LaTeX source (Springer svproc class)
 tests/           unit tests (pytest)
 ```
 
