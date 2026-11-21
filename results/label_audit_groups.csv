@@ -1,0 +1,10 @@
+country,source,precision,n,locations,yield_mean,r2_location_cv
+Kenya,OneAcre_survey,30 m,1586,1583,3235.971892,0.096245
+Malawi,LSMS_MWI2019,5 km,965,469,1871.990708,-0.012117
+Malawi,OneAcre_survey,30 m,576,575,1992.11105,0.077279
+Nigeria,LSMS_NGA2018,5 km,1065,233,1204.185666,0.00516
+Rwanda,Niche_trial,30 m,763,623,4019.336003,-0.166795
+Rwanda,Niche_trial,5 km,473,40,4284.203855,-0.449303
+Rwanda,OneAcre_survey,5 km,251,155,3276.874867,-0.062784
+Tanzania,OneAcre_survey,30 m,911,871,3076.306636,0.102846
+Tanzania,OneAcre_survey,5 km,675,93,3284.645618,-0.171337
