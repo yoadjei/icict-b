@@ -1,0 +1,7 @@
+country,sampled,extracted,cloud_filter,outlier_filter
+Kenya,1600,1600,1600,1588
+Malawi,1600,1600,1593,1557
+Nigeria,1096,1096,1095,1065
+Rwanda,1600,1600,1594,1583
+Tanzania,1600,1600,1600,1586
+Total,7496,7496,7482,7379
