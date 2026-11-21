@@ -1,0 +1,14 @@
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+ & \multicolumn{4}{c}{LOCO $R^2$ by target} & Within $R^2$ \\
+\cmidrule(lr){2-5}
+Model and features & Kenya & Malawi & Rwanda & Tanzania & (mean) \\
+\midrule
+Source country mean & $-$0.003 & $-$1.073 & $-$0.346 & $-$0.007 &  \\
+Ridge, tabular features & $-$0.099 & $-$0.732 & $-$0.719 & $-$0.330 & 0.048 \\
+Gradient boosting, tabular features & $-$0.216 & $-$0.549 & $-$0.799 & $-$0.039 & 0.066 \\
+Ridge, Prithvi-EO & $-$0.274 & $-$1.243 & $-$0.708 & $-$0.139 & 0.110 \\
+Ridge, ViT-Base & $-$0.032 & $-$1.054 & $-$0.349 & $-$0.151 & 0.063 \\
+Ridge, tabular and Prithvi-EO & $-$0.150 & $-$1.035 & $-$0.593 & $-$0.194 & 0.118 \\
+\bottomrule
+\end{tabular}
