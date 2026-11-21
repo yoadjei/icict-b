@@ -1,0 +1,5 @@
+country,n,loco_r2,loco_rmse,loco_bias,offset_share,scale_share,unexplained_share,within_r2,within_rmse,domain_auc,safe_k,safe_strategy,r2_k200_best_calibrated,r2p05_k200_best_calibrated,r2_k200_local_mean,r2_k200_local_ridge,r2p05_k200_local_ridge,decision
+Kenya,1586,-0.098634,1660.310663,-113.655726,0.004686,0.109016,0.886298,0.096245,1505.872298,0.951264,,none,0.019569,-0.002556,-0.002306,0.062768,0.026485,do not deploy a transferred model
+Malawi,576,-0.731665,1774.344616,1131.88885,0.406941,0.016279,0.57678,0.077279,1295.213457,0.968231,,none,-0.009908,-0.045889,-0.005482,0.055439,-0.006449,do not deploy a transferred model
+Rwanda,859,-0.718841,2331.197836,-1350.959912,0.335836,0.085085,0.57908,-0.085493,1852.570508,0.976109,,none,-0.003965,-0.040154,-0.004314,-0.010556,-0.643211,do not deploy a transferred model
+Tanzania,911,-0.330373,1894.115564,-752.56612,0.157862,0.096004,0.746134,0.102846,1555.44054,0.980091,,none,0.004023,-0.032313,-0.002141,0.051168,-0.002867,do not deploy a transferred model
