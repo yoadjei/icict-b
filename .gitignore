@@ -18,15 +18,4 @@ models/
 # logs are regenerated on every run
 logs/
 
-# latex build files
-paper/*.aux
-paper/*.log
-paper/*.out
-paper/*.blg
-paper/*.bbl
-paper/*.fls
-paper/*.fdb_latexmk
-paper/*.synctex.gz
-paper/_*
-
-# tracked on purpose: results/*.csv, results/*.json, results/tables/*.tex, figures/*, paper/main.tex, paper/main.pdf
+# tracked on purpose: results/*.csv, results/*.json, results/tables/*.tex, figures/*
